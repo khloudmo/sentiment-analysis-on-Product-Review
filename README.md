@@ -1,6 +1,6 @@
 # Sentiment Analysis on Product Reviews  
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **Sentiment Analysis** of product reviews to classify them as **positive** or **negative**.  
 The dataset used is the [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews).  
 
@@ -88,4 +88,5 @@ Bar chart comparison of models:
 - **Khloud Mohamed Ibrahem Ali**  
 - Computer Science (AI Major) | Passionate about NLP, Machine Learning & Deep Learning  
 - [LinkedIn](https://www.linkedin.com/in/kholoud-mohamed-07-I) | [GitHub](https://github.com/khloudmo)  
+
 
