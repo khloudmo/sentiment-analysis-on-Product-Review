@@ -56,7 +56,7 @@ The dataset used is the [Amazon Product Reviews Dataset](https://www.kaggle.com/
 ## Visualization
 Bar chart comparison of models:
 
-![Results Graph](comparison.png)
+![Results Graph](top_negative_words.png)(top_positive_words.png)(comparison.png)
 
 ---
 
@@ -88,6 +88,7 @@ Bar chart comparison of models:
 - **Khloud Mohamed Ibrahem Ali**  
 - Computer Science (AI Major) | Passionate about NLP, Machine Learning & Deep Learning  
 - [LinkedIn](https://www.linkedin.com/in/kholoud-mohamed-07-I) | [GitHub](https://github.com/khloudmo)  
+
 
 
 
